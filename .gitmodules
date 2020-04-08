@@ -1,0 +1,3 @@
+[submodule "merge-conflict-py"]
+	path = merge-conflict-py
+	url = https://github.com/mercutiodesign/merge-conflict-py
